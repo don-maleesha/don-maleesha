@@ -1,27 +1,29 @@
-<h1 align="center">Hello, World! 👋, I'm Lochana Thilakarathne.</h1>
-<h3 align="center">A passionate Information Systems Undergraduate.</h3>
+<h1 align="center">Hello, World! 👋 I'm Lochana Thilakarathne.</h1>
+<h3 align="center">A passionate Information Systems undergraduate.</h3>
 
-- 🎓 I’m currently pursuing my degree at the **University of Colombo School of Computing**.
-- 🌐 I have a strong interest in **Fullstack Development**, **Quality Assurance** and **Business Analysis**.
-- 💻 I’m also exploring **Artificial Intelligence** and **Cloud Computing**.
-- 🌱 Constantly learning and growing in the fields of **Software Engineering** and **Web Development**.
-- 📧 Reach out to me at **lochanamt@gmail.com**.
+<ul>
+  <li>🎓 I’m currently pursuing my degree at the <strong>University of Colombo School of Computing</strong>.</li>
+  <li>🌐 I have a strong interest in <strong>Software Engineering</strong>, <strong>Fullstack Development</strong>, <strong>Quality Assurance</strong>, and <strong>Business Analysis</strong>.</li>
+  <li>💻 I’m also exploring <strong>Artificial Intelligence</strong> and <strong>Cloud Computing</strong>.</li>
+  <li>🌱 Constantly learning and growing in the fields of <strong>Software Engineering</strong> and <strong>Web Development</strong>.</li>
+  <li>📧 Reach out to me at <strong>lochanamt@gmail.com</strong>.</li>
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/lochana-thilakarathne-097277269" target="blank">
+  <a href="https://linkedin.com/in/lochana-thilakarathne-097277269" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://stackoverflow.com/users/22364913/don-maleesha" target="blank">
+  <a href="https://stackoverflow.com/users/22364913/don-maleesha" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" />
   </a>
-  <a href="https://medium.com/@LochanaThilakarathne" target="blank">
+  <a href="https://medium.com/@LochanaThilakarathne" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" />
   </a>
-  <a href="https://www.youtube.com/c/@lochanathilakarathne1168" target="blank">
+  <a href="https://www.youtube.com/c/@lochanathilakarathne1168" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
   </a>
-  <a href="https://www.hackerrank.com/lochanamaleesha1" target="blank">
+  <a href="https://www.hackerrank.com/lochanamaleesha1" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
   </a>
 </p>
