@@ -4,7 +4,7 @@
 <ul>
   <li>🎓 I’m currently pursuing my degree at the <strong>University of Colombo School of Computing</strong>.</li>
   <li>🌐 I have a strong interest in <strong>Software Engineering</strong>, <strong>Fullstack Development</strong>, <strong>Quality Assurance</strong>, and <strong>Business Analysis</strong>.</li>
-  <li>💻 I’m also exploring <strong>Artificial Intelligence</strong> and <strong>Cloud Computing</strong>.</li>
+  <li>💻 I’m also exploring <strong>Artificial Intelligence</strong> and <strong>Machine Learning</strong>.</li>
   <li>🌱 Constantly learning and growing in the fields of <strong>Software Engineering</strong> and <strong>Web Development</strong>.</li>
   <li>📧 Reach out to me at <strong>lochanamt@gmail.com</strong>.</li>
 </ul>
