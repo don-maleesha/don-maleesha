@@ -6,7 +6,7 @@
   <li>🌐 I have a strong interest in <strong>Software Engineering</strong>, <strong>Fullstack Development</strong>, <strong>Quality Assurance</strong>, and <strong>Business Analysis</strong>.</li>
   <li>💻 I’m also exploring <strong>Artificial Intelligence</strong> and <strong>Machine Learning</strong>.</li>
   <li>🌱 Constantly learning and growing in the fields of <strong>Software Engineering</strong> and <strong>Web Development</strong>.</li>
-  <li>📧 Reach out to me at <a>lochanamt@gmail.com</strong>.</li>
+  <li>📧 Reach out to me at <a href="mailto:lochanamt@gmail.com">lochanamt@gmail.com</a>.</li>
 </ul>
 
 <h3 align="left">Connect with me:</h3>
