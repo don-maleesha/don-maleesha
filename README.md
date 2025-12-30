@@ -1,73 +1,159 @@
-<h1 align="center">Hello, World! 👋 I'm Lochana Thilakarathne.</h1>
-<h3 align="center">A passionate Information Systems undergraduate.</h3>
+<div align="center">
+  
+# 👋 Hello, World! I'm Lochana Thilakarathne
 
-<ul>
-  <li>🎓 I’m currently pursuing my degree at the <strong>University of Colombo School of Computing</strong>.</li>
-  <li>🌐 I have a strong interest in <strong>Software Engineering</strong>, <strong>Fullstack Development</strong>, <strong>Quality Assurance</strong>, and <strong>Business Analysis</strong>.</li>
-  <li>💻 I’m also exploring <strong>Artificial Intelligence</strong> and <strong>Machine Learning</strong>.</li>
-  <li>🌱 Constantly learning and growing in the fields of <strong>Software Engineering</strong> and <strong>Web Development</strong>.</li>
-  <li>📧 Reach out to me at <a href="mailto:lochanamt@gmail.com">lochanamt@gmail.com</a>.</li>
-</ul>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=800&lines=Information+Systems+Undergraduate;Software+Developer+%7C+Full-Stack+Engineer;Builder+of+Digital+Experiences;Turning+Ideas+Into+Reality)](https://git.io/typing-svg)
 
-<h3 align="left">Follow me on:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/lochana-thilakarathne-097277269" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://stackoverflow.com/users/22364913/don-maleesha" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" />
-  </a>
-  <a href="https://medium.com/@LochanaThilakarathne" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" />
-  </a>
-  <a href="https://www.youtube.com/c/@lochanathilakarathne1168" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/profile/lochanamt" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
-  </a>
-</p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="MariaDB" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> </p>
-  </a>
-</p>
+---
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=don-maleesha&show_icons=true&locale=en&layout=compact" alt="don-maleesha" />
-</p>
+## 🚀 About Me
+
+```javascript
+const lochana = {
+    location: "Sri Lanka 🇱🇰",
+    education: "University of Colombo School of Computing",
+    role: "Undergraduate Trainee - Software Developer @ Ones & Zeros Pvt Ltd",
+    passions: ["Software Engineering", "Full-Stack Development", "System Design"],
+    funFact: "I turn complex problems into elegant solutions—often faster than expected 💡",
+    engineeringInstinct: "Some call it talent, I call it engineering instinct.",
+    motto: "Building systems end-to-end, not just piece by piece ⚡"
+};
+```
+
+📫 **Reach me at:** [lochanamt@gmail.com](mailto:lochanamt@gmail.com)
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lochana-thilakarathne-097277269)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22364913/don-maleesha)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@LochanaThilakarathne)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/c/@lochanathilakarathne1168)
+[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/lochanamt)
+
+</div>
+
+---
+
+## 💻 Tech Arsenal
+
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <a href="https://www.java.com" target="_blank">
+        <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+      </a>
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.cprogramming.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
+      </a>
+    </td>
+    <td align="center" width="96">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+        <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+      </a>
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.php.net" target="_blank">
+        <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
+      </a>
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.w3.org/html/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+      </a>
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.w3schools.com/css/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="https://reactjs.org/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+      </a>
+    </td>
+    <td align="center" width="96">
+      <a href="https://nextjs.org/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+      </a>
+    </td>
+    <td align="center" width="96">
+      <a href="https://getbootstrap.com" target="_blank">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
+      </a>
+    </td>
+    <td align="center" width="96">
+      <a href="https://nodejs.org" target="_blank">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+      </a>
+    </td>
+    <td align="center" width="96">
+      <a href="https://spring.io/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring" />
+      </a>
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.mysql.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="https://www.postgresql.org" target="_blank">
+        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+      </a>
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.mongodb.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+      </a>
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.linux.org/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+      </a>
+    </td>
+    <td align="center" width="96">
+      <a href="https://git-scm.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      </a>
+    </td>
+    <td align="center" width="96">
+      <a href="https://postman.com" target="_blank">
+        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+      </a>
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.figma.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="https://www.atlassian.com/software/jira" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" width="48" height="48" alt="Jira" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+<div align="center">
+
+### ✨ *"Efficiency is doing things right. Engineering is doing the right things."*
+
+### 💼 Open to collaborations and exciting opportunities!
+
+</div>
