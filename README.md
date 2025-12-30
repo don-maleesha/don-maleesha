@@ -17,7 +17,6 @@ const lochana = {
     role: "Undergraduate Trainee - Software Developer @ Ones & Zeros Pvt Ltd",
     passions: ["Software Engineering", "Full-Stack Development", "System Design"],
     funFact: "I turn complex problems into elegant solutions—often faster than expected 💡",
-    engineeringInstinct: "Some call it talent, I call it engineering instinct.",
     motto: "Building systems end-to-end, not just piece by piece ⚡"
 };
 ```
