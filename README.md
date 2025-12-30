@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hello, World! I'm Lochana Thilakarathne
+# 👋 Hello, World! I'm Lochana Maleesha Thilakarathne
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=800&lines=Information+Systems+Undergraduate;Software+Developer+%7C+Full-Stack+Engineer;Builder+of+Digital+Experiences;Turning+Ideas+Into+Reality)](https://git.io/typing-svg)
 
@@ -59,6 +59,11 @@ const lochana = {
       </a>
     </td>
     <td align="center" width="96">
+      <a href="https://www.typescriptlang.org/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
+      </a>
+    </td>
+    <td align="center" width="96">
       <a href="https://www.php.net" target="_blank">
         <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
       </a>
@@ -68,13 +73,13 @@ const lochana = {
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <a href="https://www.w3schools.com/css/" target="_blank">
         <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <a href="https://reactjs.org/" target="_blank">
         <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
@@ -91,8 +96,20 @@ const lochana = {
       </a>
     </td>
     <td align="center" width="96">
+      <a href="https://tailwindcss.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" />
+      </a>
+    </td>
+    <td align="center" width="96">
       <a href="https://nodejs.org" target="_blank">
         <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="https://expressjs.com" target="_blank">
+        <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
       </a>
     </td>
     <td align="center" width="96">
@@ -105,8 +122,6 @@ const lochana = {
         <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <a href="https://www.postgresql.org" target="_blank">
         <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
@@ -122,6 +137,8 @@ const lochana = {
         <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <a href="https://git-scm.com/" target="_blank">
         <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
@@ -137,8 +154,6 @@ const lochana = {
         <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <a href="https://www.atlassian.com/software/jira" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" width="48" height="48" alt="Jira" />
