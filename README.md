@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hello, World! I'm Lochana Maleesha Thilakarathne
+# 👋 Hello, World! I'm Lochana Thilakarathne
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=800&lines=Information+Systems+Undergraduate;Software+Developer+%7C+Full-Stack+Engineer;Builder+of+Digital+Experiences;Turning+Ideas+Into+Reality)](https://git.io/typing-svg)
 
