@@ -14,7 +14,7 @@
 const lochana = {
     location: "Sri Lanka 🇱🇰",
     education: "University of Colombo School of Computing",
-    role: "Undergraduate Trainee - Software Developer @ Ones & Zeros Pvt Ltd",
+    role: "Trainee - Software Developer @ Ones & Zeros Pvt Ltd",
     passions: ["Software Engineering", "Full-Stack Development", "System Design"],
     funFact: "I turn complex problems into elegant solutions—often faster than expected 💡",
     motto: "Building systems end-to-end, not just piece by piece ⚡"
